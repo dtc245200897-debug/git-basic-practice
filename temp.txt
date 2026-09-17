@@ -1,1 +1,2 @@
 Testing soft reset
+Testing mixed reset
